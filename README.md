@@ -73,24 +73,36 @@ Cada uno de los códigos vinculados a estos lenguajes lo que realiza es una mues
 La actividad se ha realizando utilizando gcc para la compilación del código en el lenguaje **C**, para la compilación en java he usado **javac**. Para python al ser interpretado no he tenido que compilar ni realizar una generación de código intermedio, con python lo único que he tenido que he tenido que hacer es ejecutarlo ya que python al ser interpretado se irá compilando línea a línea mientras se ejecuta.
 
 ### Código Fuente
-[Aquí se incluirá un enlace directo a los archivos de código fuente en el repositorio, por ejemplo, si se está usando GitHub: `src/main.java` o algún enlace directo.]
 
-### Ejemplos de Ejecución
-- **Entrada 1:** Descripción de la entrada y valor de prueba.
-- **Salida Esperada 1:** Explicación de la salida esperada y el resultado de la prueba.
+Código usado para imprimir la información en **C**
+https://github.com/Alejandro-Bravo2/1-daw-a-24-25-edes-2425-u1-1-2-ponlo-en-practica-2425_EDES_u1_p2-alejandro/blob/856c7b12976907722fe9ad1c8ce94d5ced054716/src/main.c#L1-L6
 
-### Resultados de Pruebas
-[Aquí se detallará cómo se ha verificado la funcionalidad del código, incluyendo resultados de pruebas automatizadas o manuales, en caso de que las haya.]
+Código usado para imprimir la información en **java**
+https://github.com/Alejandro-Bravo2/1-daw-a-24-25-edes-2425-u1-1-2-ponlo-en-practica-2425_EDES_u1_p2-alejandro/blob/856c7b12976907722fe9ad1c8ce94d5ced054716/src/ImprimirInformacion.java#L1-L5
+
+Código usado para imprimir la información en **python**
+https://github.com/Alejandro-Bravo2/1-daw-a-24-25-edes-2425-u1-1-2-ponlo-en-practica-2425_EDES_u1_p2-alejandro/blob/856c7b12976907722fe9ad1c8ce94d5ced054716/src/main.py#L1-L4
+
+
+
 
 ## Documentación Adicional
 - **Manual de Usuario:** [Enlace a la documentación del usuario, si existe]
 - **Autorización de Permisos:** Verificar que el profesor tenga permisos de lectura en el repositorio para revisar el código.
 
 ## Conclusiones
-[Resumen de las conclusiones alcanzadas al desarrollar la actividad, las lecciones aprendidas, y posibles mejoras que se puedan implementar en futuras entregas.]
+
+
+He aprendido a como compilar en java y c además de haber aprendido sobre el código intermedio y código objeto. También he aprendido los distintos niveles que existen en los lenguajes de programación. He aprendido a la importancía de las máquinas virtuales para la portabilidad del código entre sistemas operativos.
+
 
 ## Referencias y Fuentes
-[Aquí se listarán las fuentes consultadas para el desarrollo de la actividad, tales como documentación oficial, artículos, o cualquier recurso externo relevante.]
+
+https://revilofe.github.io/section3/u01/teoria/EDES-U1.5.-Lenguajes/?h=gcc#211-lenguajes-compilados
+
+https://stackoverflow.com/questions/24819206/using-gcc-to-compile-c-code
+
+https://stackoverflow.com/questions/2279451/how-to-compile-a-java-file-in-java
 
 ### Notas Adicionales:
 1. **Nombres de Archivos y Repositorios:**
